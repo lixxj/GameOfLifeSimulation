@@ -10,7 +10,7 @@
    </div>
   </nav>
   <header>
-    <h1 class="heading">!!! Regularly Check Updates on Webcms3 !!!</h1>
+    <h1 class="heading"> Conway's Game of Life by XJ</h1>
     <p>
       <a href="https://webcms3.cse.unsw.edu.au/COMP1521/19T2/">Webcms3 COMP1521 19T2</a>
     <h1 class="heading">Assignment 1</h1>
