@@ -1,3 +1,16 @@
+##################################################################################
+#
+# Copyright (C) 2019, XJ, All rights reserved.
+#
+# This is an unpublished, proprietary work of XJ Li and is fully
+# protected under copyright and trade secret law. You may not view, use,
+# disclose, or distribute this file or any information contained herein except
+# persuant to a valid written license from XJ Li.
+#
+# The entire notice above must be reproduced on all authorized copies.
+#
+##################################################################################
+
 
 ########################################################################################################
 # START OF PROG.S ######################################################################################
